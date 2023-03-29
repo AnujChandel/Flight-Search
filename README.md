@@ -4,8 +4,8 @@ Enter your flight details and get filterd result.
 
 # Tools Used
 
-1.JSON
-2.react.js
+1. JSON
+2. React.js
 
 # Images
 
